@@ -37,7 +37,7 @@ while 1:
     line3.set_ydata(data3.get())
     fig.canvas.draw()
     fig.canvas.flush_events()
-    #time.sleep(0.1) if need the graph refeash rate 
+    #time.sleep(0.1) #if need the graph refeash rate 
     i+=1
     
     data.append((random.random()-0.5)*10) # update the arrays with new value
