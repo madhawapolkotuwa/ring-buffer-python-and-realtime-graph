@@ -4,7 +4,7 @@ using ring buffer simple real time plot python3
 
 this is simple real time graph using matplotlib
 how to run:
-open the terminal in the file saved direction type
+open the terminal in the file saved direction and type
 
 python ringBufferGraph.py
 
